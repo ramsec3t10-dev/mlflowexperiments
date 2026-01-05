@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLFlow/mlruns/0/74f5ec9cbb87461cbc54814d2f72aa08/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74f5ec9cbb87461cbc54814d2f72aa08
+run_name: lyrical-swan-326
+run_uuid: 74f5ec9cbb87461cbc54814d2f72aa08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767612009142
+status: 1
+tags: []
+user_id: BMS3COB

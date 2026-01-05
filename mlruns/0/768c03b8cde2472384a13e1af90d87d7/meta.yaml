@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLFlow/mlruns/0/768c03b8cde2472384a13e1af90d87d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 768c03b8cde2472384a13e1af90d87d7
+run_name: dazzling-seal-613
+run_uuid: 768c03b8cde2472384a13e1af90d87d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767612684224
+status: 1
+tags: []
+user_id: BMS3COB

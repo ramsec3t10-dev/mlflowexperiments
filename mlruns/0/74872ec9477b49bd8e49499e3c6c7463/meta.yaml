@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLFlow/mlruns/0/74872ec9477b49bd8e49499e3c6c7463/artifacts
+end_time: 1767603625803
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74872ec9477b49bd8e49499e3c6c7463
+run_name: industrious-gnu-379
+run_uuid: 74872ec9477b49bd8e49499e3c6c7463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767603623439
+status: 3
+tags: []
+user_id: BMS3COB

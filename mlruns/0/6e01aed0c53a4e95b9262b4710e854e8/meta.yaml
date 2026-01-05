@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLFlow/mlruns/0/6e01aed0c53a4e95b9262b4710e854e8/artifacts
+end_time: 1767603316179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e01aed0c53a4e95b9262b4710e854e8
+run_name: dashing-mouse-934
+run_uuid: 6e01aed0c53a4e95b9262b4710e854e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767603311315
+status: 3
+tags: []
+user_id: BMS3COB

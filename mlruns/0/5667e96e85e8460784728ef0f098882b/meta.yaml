@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLFlow/mlruns/0/5667e96e85e8460784728ef0f098882b/artifacts
+end_time: 1767610733271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5667e96e85e8460784728ef0f098882b
+run_name: orderly-bee-670
+run_uuid: 5667e96e85e8460784728ef0f098882b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767610728702
+status: 3
+tags: []
+user_id: BMS3COB
